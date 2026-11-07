@@ -17,4 +17,4 @@ I turn ideas into working software with Claude Code: MCP servers, integrations, 
 
 Code lives in private repos. Happy to walk through any of it.
 
-[LinkedIn](https://linkedin.com/in/kyle-thormodsgaard-007aa7437)
+[LinkedIn](https://www.linkedin.com/in/kyle-thor)
